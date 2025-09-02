@@ -188,7 +188,7 @@ When creating your Pull Request, **please include a short description** that exp
 
 Each `.md` file must start with YAML frontmatter.  
 
-👉 Please refer to the [Syllabus File Template](./SYLLABUS_TEMPLATE.md) for the complete format with examples.
+👉 Please refer to the [Syllabus File Template](https://github.com/9sreerag7/WikiSyllabus/blob/main/demo.md) for the complete format with examples.
 
 ---
 
