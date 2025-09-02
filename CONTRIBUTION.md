@@ -33,7 +33,7 @@ universities/university/branch/year/semester/xx.md
 
 ```
 
-universities/ktu/computer-science/2019/s8/01.md
+universities/ktu/computer-science/2019/s08/01.md
 
 ````
 
@@ -81,7 +81,7 @@ universities/common-paper/<year>/<semester>/<xx>.md
 Example:
 
 ```
-universities/common-paper/2019/s1/01.md
+universities/common-paper/2019/s01/01.md
 ```
 
 * **YAML Frontmatter:**
