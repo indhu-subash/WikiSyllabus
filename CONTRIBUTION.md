@@ -184,6 +184,13 @@ When creating your Pull Request, **please include a short description** that exp
 - ✅ Confirm naming and structure matches the guidelines.
 
 ---
+## 📝 Markdown File Format
+
+Each `.md` file must start with YAML frontmatter.  
+
+👉 Please refer to the [Syllabus File Template](./SYLLABUS_TEMPLATE.md) for the complete format with examples.
+
+---
 
 ## 🤝 Code of Conduct
 
